@@ -1,7 +1,6 @@
 package programs;
 
 public class fibonacci {
-
 	public static void main(String[] args) {
 		int n1 = 0, n2 = 1, n3, i, last = 25;
 		System.out.print(n1 + " " + n2);
